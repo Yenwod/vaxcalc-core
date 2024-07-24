@@ -11,6 +11,9 @@ ingredients:
   bovine_pituitary_extract:
     name: "Bovine pituitary extract"
     slug: "bovine-pituitary-extract"
+  calf_serum_albumin:
+    name: "Calf serum albumin"
+    slug: "calf-serum-albumin"
   casamino_acid:
     name: "Casamino acid"
     slug: "casamino-acid"
@@ -26,6 +29,12 @@ ingredients:
   e_coli:
     name: "E. coli"
     slug: "e-coli"
+  egg_protein:
+    name: "Egg protein"
+    slug: "egg-protein"
+  fetal_bovine_serum:
+    name: "Fetal bovine serum"
+    slug: "fetal-bovine-serum"
   formaldehyde:
     name: "Formaldehyde"
     slug: "formaldehyde"
@@ -35,30 +44,60 @@ ingredients:
   glutaraldehyde:
     name: "Glutaraldehyde"
     slug: "glutaraldehyde"
+  glyphosate:
+    name: "Glyphosate"
+    slug: "glyphosate"
+  human_protein_dna_wi_38:
+    name: "Human protein DNA WI-38"
+    slug: "human-protein-dna-wi-38"
+  human_protein_dna_wistar_ra_27_3:
+    name: "Human protein DNA Wistar RA 27/3"
+    slug: "human-protein-dna-wistar-ra-27-3"
   latex:
     name: "Latex"
     slug: "latex"
   kanamycin:
     name: "Kanamycin"
     slug: "kanamycin"
+  msg:
+    name: "Monosodium glutamate (MSG)"
+    slug: "msg"
+  neomycin:
+    name: "Neomycin"
+    slug: "neomycin"
   pertussis_toxin:
     name: "Pertussis toxin"
     slug: "pertussis-toxin"
-  polysorbate_80:
-    name: "Polysorbate 80"
-    slug: "polysorbate-80"
   phenoxyethanol:
-    name: "2-Phenoxyethanol"
-    slug: "2-Phenoxyethanol"
+    name: "Phenoxyethanol"
+    slug: "phenoxyethanol"
   phytonadione:
     name: "Phytonadione"
     slug: "phytonadione"
+  polymyxin:
+    name: "Polymyxin"
+    slug: "polymyxin"
+  polysorbate_80:
+    name: "Polysorbate 80"
+    slug: "polysorbate-80"
+  porcine_gelatin:
+    name: "Porcine gelatin"
+    slug: "porcine-gelatin"
   proplyene_glycol:
     name: "Propylene glycol"
     slug: "propylene-glycol"
+  recombinant_human_albumin:
+    name: "Recombinant human albumin"
+    slug: "recombinant-human-albumin"
+  streptomycin:
+    name: "Streptomycin"
+    slug: "streptomycin"
   sodium_phosphate:
     name: "Sodium phosphate"
     slug: "sodium-phosphate"
+  vero_cells:
+    name: "Vero cells (African Green Monkey kidney) DNA"
+    slug: "vero-cells"
   yeast:
     name: "Yeast"
     slug: "yeast"

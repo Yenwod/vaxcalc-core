@@ -1,19 +1,37 @@
 vaccine_types:
-  - COVID-19
-  - DTaP
-  - Flu
-  - HepA
-  - HepB
-  - Hib
-  - HPV
-  - MenACWY
-  - MenB
-  - MMR
-  - PCV
-  - Polio
-  - RSV
-  - RV
-  - Tdap
-  - VAR
-  - VZV
-  - Vitamin-K
+  - type: "COVID-19"
+    name: "COVID-19"
+  - type: "DTaP"
+    name: "Diphtheria, Tetanus, and acellular Pertussis"
+  - type: "Flu"
+    name: "Influenza"
+  - type: "HepA"
+    name: "Hepatitis A"
+  - type: "HepB"
+    name: "Hepatitis B"
+  - type: "Hib"
+    name: "Haemophilus influenzae type b"
+  - type: "HPV"
+    name: "Human Papillomavirus"
+  - type: "MenACWY"
+    name: "Meningococcal ACWY"
+  - type: "MenB"
+    name: "Meningococcal B"
+  - type: "MMR"
+    name: "Measles, Mumps, and Rubella"
+  - type: "PCV"
+    name: "Pneumococcal Conjugate"
+  - type: "Polio"
+    name: "Poliovirus"
+  - type: "RSV"
+    name: "Respiratory Syncytial Virus"
+  - type: "RV"
+    name: "Rotavirus"
+  - type: "Tdap"
+    name: "Tetanus, Diphtheria, and acellular Pertussis"
+  - type: "VAR"
+    name: "Varicella (Chickenpox)"
+  - type: "VZV"
+    name: "Varicella Zoster (Shingles)"
+  - type: "Vitamin-K"
+    name: "Vitamin K"
