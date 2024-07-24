@@ -1,0 +1,64 @@
+ingredients:
+  aluminum:
+    name: "Aluminum"
+    slug: "aluminum"
+  ammonium_sulfate:
+    name: "Ammonium Sulfate"
+    slug: "ammonium-sulfate"
+  benzyl_alcohol:
+    name: "Benzyl alcohol"
+    slug: "benzyl-alcohol"
+  bovine_pituitary_extract:
+    name: "Bovine pituitary extract"
+    slug: "bovine-pituitary-extract"
+  casamino_acid:
+    name: "Casamino acid"
+    slug: "casamino-acid"
+  casein:
+    name: "Casein (milk proteins)"
+    slug: "casein"
+  deoxycholate:
+    name: "Deoxycholate"
+    slug: "deoxycholate"
+  diphtheria_toxoid:
+    name: "Diphtheria toxoid"
+    slug: "diphtheria-toxoid"
+  e_coli:
+    name: "E. coli"
+    slug: "e-coli"
+  formaldehyde:
+    name: "Formaldehyde"
+    slug: "formaldehyde"
+  franz_complete_medium:
+    name: "Franz complete medium"
+    slug: "franz-complete-medium"
+  glutaraldehyde:
+    name: "Glutaraldehyde"
+    slug: "glutaraldehyde"
+  latex:
+    name: "Latex"
+    slug: "latex"
+  kanamycin:
+    name: "Kanamycin"
+    slug: "kanamycin"
+  pertussis_toxin:
+    name: "Pertussis toxin"
+    slug: "pertussis-toxin"
+  polysorbate_80:
+    name: "Polysorbate 80"
+    slug: "polysorbate-80"
+  phenoxyethanol:
+    name: "2-Phenoxyethanol"
+    slug: "2-Phenoxyethanol"
+  phytonadione:
+    name: "Phytonadione"
+    slug: "phytonadione"
+  proplyene_glycol:
+    name: "Propylene glycol"
+    slug: "propylene-glycol"
+  sodium_phosphate:
+    name: "Sodium phosphate"
+    slug: "sodium-phosphate"
+  yeast:
+    name: "Yeast"
+    slug: "yeast"

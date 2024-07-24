@@ -1,0 +1,19 @@
+vaccine_types:
+  - COVID-19
+  - DTaP
+  - Flu
+  - HepA
+  - HepB
+  - Hib
+  - HPV
+  - MenACWY
+  - MenB
+  - MMR
+  - PCV
+  - Polio
+  - RSV
+  - RV
+  - Tdap
+  - VAR
+  - VZV
+  - Vitamin-K

@@ -1,0 +1,105 @@
+vaccines:
+  - name: Adacel
+    type: Tdap
+    url: https://www.fda.gov/vaccines-blood-biologics/vaccines/adacel
+    age_range: "10 - 64 years "
+    ingredients:
+      - aluminum: "330 mcg"
+      - ammonium_sulfate: "1 exposure"
+      - formaldehyde: "5 mcg"
+      - glutaraldehyde: "50 ng"
+      - latex: "1 exposure"
+      - pertussis_toxin: "2.5 mcg"
+      - phenoxyethanol: "3,300 mcg"
+      - polysorbate_80: "100 mcg"
+  - name: AquaMEPHYTON
+    type: Vitamin-K
+    url: https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/012223s042lbl.pdf
+    age_range: "Birth and older"
+    ingredients:
+      - benzyl_alcohol: "9,000 mcg"
+      - phytonadione: "2 mg"
+  - name: Bexsero
+    type: MenB
+    url: https://www.fda.gov/vaccines-blood-biologics/vaccines/bexsero
+    age_range: "10 - 25 years"
+    ingredients:
+      - aluminum: "519 mcg"
+      - deoxycholate: "1 exposure"
+      - e_coli: "1 exposure"
+      - kanamycin: "10 ng"
+      - latex: "1 exposure"
+  - name: Boostrix
+    type: Tdap
+    url: https://www.fda.gov/vaccines-blood-biologics/vaccines/boostrix
+    age_range: "10 years and older"
+    ingredients:
+      - aluminum: "390 mcg"
+      - bovine_pituitary_extract: "1 exposure"
+      - casein: "1 exposure"
+      - formaldehyde: "100 mcg"
+      - glutaraldehyde: "1 exposure"
+      - latex: "1 exposure"
+      - pertussis_toxin: "8 mcg"
+      - polysorbate_80: "100 mcg"
+  - name: Daptacel
+    type: DTaP
+    url: https://www.fda.gov/vaccines-blood-biologics/vaccines/daptacel
+    age_range: "6 weeks - 6 years"
+    ingredients:
+      - aluminum: "330 mcg"
+      - ammonium_sulfate: "1 exposure"
+      - casamino_acid: "1 exposure"
+      - formaldehyde: "5 mcg"
+      - glutaraldehyde: "50 ng"
+      - pertussis_toxin: "10 mcg"
+      - phenoxyethanol: "3,300 mcg"
+  - name: Infanrix
+    type: DTaP
+    url: https://www.fda.gov/vaccines-blood-biologics/vaccines/infanrix
+    age_range: "6 weeks - 6 years"
+    ingredients:
+      - aluminum: "625 mcg"
+      - bovine_pituitary_extract: "1 exposure"
+      - casein: "18.3 ng"
+      - formaldehyde: "100 mcg"
+      - glutaraldehyde: "1 exposure"
+      - latex: "1 exposure"
+      - pertussis_toxin: "25 mcg"
+      - polysorbate_80: "100 mcg"
+  - name: Menactra
+    type: MenACWY
+    url: https://www.fda.gov/vaccines-blood-biologics/vaccines/menactra
+    age_range: "9 months - 55 years"
+    ingredients:
+      - ammonium_sulfate: "1 exposure"
+      - casein: "1 exposure"
+      - diphtheria_toxoid: "48 mcg"
+      - formaldehyde: "2.7 mcg"
+      - sodium_phosphate: "1 exposure"
+  - name: Menveo
+    type: MenACWY
+    url: https://www.fda.gov/vaccines-blood-biologics/vaccines/menveo
+    age_range: "2 months - 55 years"
+    ingredients:
+      - diphtheria_toxoid: "64 mcg"
+      - formaldehyde: "0.3 mcg"
+      - franz_complete_medium: "1 exposure"
+      - yeast: "1 exposure"
+  - name: Phytonadione generic
+    type: Vitamin-K
+    url: https://labeling.pfizer.com/ShowLabeling.aspx?id=5392
+    age_range: "Birth and older"
+    ingredients:
+      - benzyl_alcohol: "9,000 mcg"
+      - phytonadione: "1 mg"
+      - polysorbate_80: "10,000 mcg"
+      - proplyene_glycol: "10,400 mcg"
+  - name: Trumenba
+    type: MenB
+    url: https://www.fda.gov/vaccines-blood-biologics/vaccines/trumenba
+    age_range: "10 - 25 years"
+    ingredients:
+      - aluminum: "250 mcg"
+      - e_coli: "1 exposure"
+      - polysorbate_80: "1 exposure"
